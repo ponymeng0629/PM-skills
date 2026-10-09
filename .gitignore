@@ -4,3 +4,5 @@
 *.log
 *.tmp
 __pycache__/
+.deploy_key
+.deploy_key.pub
