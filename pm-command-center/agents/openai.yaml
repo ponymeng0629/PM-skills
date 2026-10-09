@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Command Center"
+  short_description: "分诊复杂产品任务并编排最短执行链路"
+  default_prompt: "Use $pm-command-center to route this product task and define the next verifiable decision."

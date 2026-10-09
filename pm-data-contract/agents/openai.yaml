@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Data Contract"
+  short_description: "冻结指标埋点SQL的业务口径和验收规则"
+  default_prompt: "Use $pm-data-contract to define the metric grain and produce a verifiable data specification."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Review Gate"
+  short_description: "跨角色评审并给出清晰上线结论"
+  default_prompt: "Use $pm-review-gate to review this requirement and issue a GO, CONDITIONAL GO, or NO-GO."

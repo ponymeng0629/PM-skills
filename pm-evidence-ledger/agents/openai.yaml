@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Evidence Ledger"
+  short_description: "给产品事实分层并裁决材料冲突"
+  default_prompt: "Use $pm-evidence-ledger to classify these sources and identify what is actually confirmed."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Decision Brief"
+  short_description: "把复杂分析压缩成可直接转发的决策简报"
+  default_prompt: "Use $pm-decision-brief to turn this analysis into a one-screen business decision brief."

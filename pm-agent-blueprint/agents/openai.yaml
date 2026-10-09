@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Agent Blueprint"
+  short_description: "设计可开发可评测可控制的 AI Agent"
+  default_prompt: "Use $pm-agent-blueprint to design this business workflow as a controlled and testable Agent."

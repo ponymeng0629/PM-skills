@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Experiment Plan"
+  short_description: "设计可判定可止损的产品实验"
+  default_prompt: "Use $pm-experiment-plan to turn this product hypothesis into a decision-ready experiment."

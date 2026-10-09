@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Requirement Triage"
+  short_description: "在写 PRD 前完成需求体检和优先级判断"
+  default_prompt: "Use $pm-requirement-triage to decide whether this request is ready for a PRD."

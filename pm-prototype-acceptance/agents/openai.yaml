@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Prototype Acceptance"
+  short_description: "生成可交互可验收的产品原型交付"
+  default_prompt: "Use $pm-prototype-acceptance to turn this requirement into a runnable prototype and acceptance checklist."

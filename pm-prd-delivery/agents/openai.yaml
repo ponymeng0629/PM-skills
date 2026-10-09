@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM PRD Delivery"
+  short_description: "产出可评审可研发可验收的完整 PRD"
+  default_prompt: "Use $pm-prd-delivery to turn this validated product decision into a review-ready PRD."
